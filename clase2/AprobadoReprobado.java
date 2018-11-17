@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class AprobadoReprobado{
+
+    public static void main(String[] args) {
+
+        Scanner leer = new Scanner(System.in);
+
+        System.out.println("Cual es tu calificacion? ");
+        double calificacion = leer.nextDouble();
+
+        if(calificacion >= 6){
+            System.out.println("Haz aprobado");
+        }
+
+        if(calificacion < 6){
+            System.out.println("No aprobaste");
+        }
+    }
+
+}

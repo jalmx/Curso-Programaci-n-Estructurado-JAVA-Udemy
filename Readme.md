@@ -8,3 +8,5 @@ Curso gratuito de programación estructurada en JAVA en Udemy. [Ir a curso][1]
 
 
 [1]: https://www.udemy.com/programacion-estructurada-java/learn/v4/overview
+
+Lista de reproduccion en Youtube https://youtube.com/playlist?list=PLuqIoqHMQ5UzzyUDLOMb_EKh8oRewfXAA
